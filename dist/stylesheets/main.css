@@ -1,4 +1,13 @@
-body{
-    color: lightblue;
-}
+.footer {
+  background-color: red; }
+
+body {
+  color: lightblue; }
+
+.content {
+  margin-right: 16px; }
+  .content .title, .content .title-lg {
+    font-size: 25px; }
+  .content .title-lg {
+    font-size: 32px; }
 
